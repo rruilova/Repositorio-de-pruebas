@@ -1,8 +1,8 @@
 public class prueba {
 
-	public static void main(String[] args) {
-     //muestra un mensaje
-     System.out.println("Este es un mensaje");  	
-	}
+     public static void main(String[] args) {
+        //muestra un mensaje
+         System.out.println("Este es un mensaje");  	
+     }
 }
 	
