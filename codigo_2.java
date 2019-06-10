@@ -6,7 +6,7 @@ public class codigo_2 {
          int c = a + b;
          System.out.println("numero a = "+a);
          System.out.println("numero b = "+b);
-  	    System.out.println("suma = "+c);
+         System.out.println("suma = "+c);
          System.out.println("numero = "+a);  	
      }
 }
