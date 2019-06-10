@@ -4,6 +4,6 @@ Repositorio para realizar pruebas con un codigo de mostrar un mensaje y un numer
 ## Configuración
 Estos codigos pueden ser editados en un ide que maneje **java** o un editor de codigo. 
 ## Uso
-Este contigo no pretende ninguno uso solo son codigos basicos para mostrar mensajes. 
+Este codigo no pretende ninguno uso solo son codigos basicos para mostrar mensajes. 
 
 
